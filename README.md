@@ -1,4 +1,4 @@
-<img align="right" src="https://external-preview.redd.it/b7WIuFz1YPVx8QNC4hXuQHfD1smeDpOe6NUgFEhUawI.png?format=pjpg&auto=webp&s=6e618a6c6199ccf7b90cc3c903b0e9fb5c40ace4" alt="Error" width=400px height=415px/>
+<img align="right" src="https://i.imgur.com/fgDmpL0.gif" alt="Error" width=400px height=415px/>
 
 <div align="center">
   
