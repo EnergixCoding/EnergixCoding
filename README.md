@@ -11,3 +11,5 @@
 (I also code in C#, but couldnt find a cool looking C# image...)
 
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnergixCoding)](https://github.com/anuraghazra/github-readme-stats)
